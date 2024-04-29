@@ -16,7 +16,7 @@ Outside of work, I enjoy playing soccer! I played for Citybros FC while in New Y
 
 ### Research Interest
 
-- Machine learning with graphs 
+- Applied machine learning
 - Networks
 - Applied probability 
 - Mathematics in finance 
