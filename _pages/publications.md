@@ -16,15 +16,14 @@ We prove the existence of a solution to the $L^{p}$ dual Minkowski problem for t
 **Nash-Kuiper surfaces <br>
 You can find my work on Nash-Kuiper surfaces (2015-2017) [here](https://megl.science.gmu.edu/)
 
-<td style="padding:20px;width:25%;vertical-align:middle">
-  <div class="project">
-    <img src="media/profile1.jpg" alt="Project Image" style="float:left; width:40%; margin-right:10px;">
-    <div style="float:left; width:50%;">
-      <h3>Citation Network of Finance Journal Artilces</h3>
-      <p>Description of the project...</p>
-    </div>
-    <div style="clear:both;"></div>
+<div class="project">
+  <img src="media/profile1.jpg" alt="Project Image" style="float:left; width:40%; margin-right:10px;">
+  <div style="float:left; width:50%;">
+    <h3>Citation Network of Finance Journal Artilces</h3>
+    <p>Description of the project...</p>
   </div>
+  <div style="clear:both;"></div>
+</div>
   
  <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
