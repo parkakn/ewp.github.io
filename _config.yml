@@ -21,7 +21,7 @@ repository               : "parkakn/ewp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "profile2.png"
   name             : "Eugene W Park"
   pronouns         : 
   bio              : "Data Scientist at MIT" #, Mathematics MS Graduate from Courant Institute at New York University
