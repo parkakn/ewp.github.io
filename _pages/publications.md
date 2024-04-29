@@ -27,8 +27,7 @@ You can find my work on Nash-Kuiper surfaces (2015-2017) [here](https://megl.sci
   
  <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='smerf_image'>
+        <div class="two" id='smerf_image'>
           <img src='media/profile1.jpg' width=100%>
         </div>
       </td>
