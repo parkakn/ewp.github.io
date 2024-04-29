@@ -29,10 +29,7 @@ You can find my work on Nash-Kuiper surfaces (2015-2017) [here](https://megl.sci
  <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <div class="two" id='smerf_image'><video  width=100% muted autoplay loop>
-          <source src="images/smerf.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-          </video></div>
+          <div class="two" id='smerf_image'>
           <img src='media/profile1.jpg' width=100%>
         </div>
       </td>
@@ -48,7 +45,7 @@ You can find my work on Nash-Kuiper surfaces (2015-2017) [here](https://megl.sci
 		<a href="">Jean-François Thibert</a>,
         <a href="https://lucic.ai/">Mario Lučić</a>,
         <a href="https://szeliski.org/">Richard Szeliski</a>,
-		<strong>Jonathan T. Barron</strong>
+		<strong>JXXXXn</strong>
         <br>
         <em>arXiv</em>, 2023
         <br>
