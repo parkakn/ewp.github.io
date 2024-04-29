@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="project">
-  <img src="/media/profile1.jpg" alt="Project Image" style="width:40%; float:left; margin-right:20px;">
+  <img src="_pages/media/profile1.jpg" alt="Project Image" style="width:40%; float:left; margin-right:20px;">
   <div>
     <h2>Project Title 1</h2>
     <p>Description of Project 1.</p>
@@ -25,7 +25,7 @@ author_profile: true
  <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='media/profile1.jpg' width=100%>
+          <img src='_pages/media/profile1.jpg' width=100%>
         </div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
