@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "Projects"
+permalink: /publications/
 author_profile: true
 ---
 <div class="project">
-  <img src="media/profile1.jpg" alt="Project Image" style="width:40%; float:left; margin-right:20px;">
+  <img src="/media/profile1.jpg" alt="Project Image" style="width:40%; float:left; margin-right:20px;">
   <div>
     <h2>Project Title 1</h2>
     <p>Description of Project 1.</p>
@@ -13,7 +14,7 @@ author_profile: true
 </div>
 
 <div class="project">
-  <img src="media/profile1.jpg" alt="Project Image" style="float:left; width:40%; margin-right:10px;">
+  <img src="/images/profile1.jpg" alt="Project Image" style="float:left; width:40%; margin-right:10px;">
   <div style="float:left; width:50%;">
     <h3>Citation Network of Finance Journal Artilces</h3>
     <p>Description of the project...</p>
