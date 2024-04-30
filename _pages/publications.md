@@ -13,7 +13,7 @@ permalink: /projects/
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="images/citation network zoom 1.png" alt="obj">
+          <img width="90%" src="{{baseurl}}images/citation network zoom 1.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
@@ -37,7 +37,7 @@ permalink: /projects/
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/profile2.png" alt="obj">
+          <img width="90%" src="{{baseurl}}/images/profile2.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
@@ -112,5 +112,5 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <br> 
 <br>
 <td width="25%">
-<img width="90%" src="/images/profile1.jpg" alt="obj">
+<img width="90%" src="{{baseurl}}/images/profile1.jpg" alt="obj">
 </td>
