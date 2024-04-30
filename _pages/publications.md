@@ -5,9 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include base_path %}
+
 
 <script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
 
