@@ -1,16 +1,8 @@
 ---
-layout: single
 title: "Projects"
 permalink: /projects/
-author_profile: true
 ---
-
-{% include base_path %}
-
-
-<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
-
-{% include base_path %}
+{% include header.html %}
 
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
@@ -97,7 +89,7 @@ author_profile: true
 </section>
 
 
-**Citation Network of Finance Journal Articles and Google Scholar Citing Papers** (2024) </em> 
+**Citation Network of Finance Journal Articles and Google Scholar Citing Papers** <em> (2024) </em> 
 
 We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
 <br>
