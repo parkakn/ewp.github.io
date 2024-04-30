@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /publications/
 author_profile: true
 ---
+<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
+
+{% include base_path %}
 
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
