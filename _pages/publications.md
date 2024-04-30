@@ -1,9 +1,14 @@
 ---
-layout: single
+layout: archive
 title: "Projects"
-permalink: /publications/
+permalink: /projects/
 author_profile: true
 ---
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
 
 {% include base_path %}
@@ -92,3 +97,33 @@ author_profile: true
     </div>
 </section>
 
+
+<h4><papertitle> 
+Citation Network of Finance Journal Articles and Google Scholar Citing Papers
+</papertitle> <em> (2024) </em> 
+</h4> 
+We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
+<br>
+<br>
+Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers.
+<br> 
+<br>
+<a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+<br> 
+
+<h4><papertitle> 
+Analyzing the Bitcoin Blockchain Network
+</papertitle> <em> (2023) </em> 
+</h4>
+We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
+<br>
+<br>
+Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers.
+<br> 
+<br>
+<a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+<br> 
+<br>
+<td width="25%">
+<img width="90%" src="/images/profile2.jpg" alt="obj">
+</td>
