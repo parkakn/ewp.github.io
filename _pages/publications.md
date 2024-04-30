@@ -1,49 +1,41 @@
 ---
 layout: single
-title: "Publications"
+title: "Projects"
 permalink: /publications/
 author_profile: true
 ---
 
-<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
-
-{% include base_path %}
-
-You can also find my articles on 
-
-Conference Papers
 ------
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
   <div class="resume-content">
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody>
-      <!-- ISBI-22 -->
+      <!-- 1. Citation Network (2023/10 - 2024/2) -->
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/profile2.png" alt="obj">
+          <img width="90%" src="images/citation network zoom 1.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
-            <h4><papertitle>Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT</papertitle></h4>
-          <!-- authors -->
-          Vatsala Sharma,
-          <strong>Ansh Khurana</strong>,
-          Sriram Yenamandra,
-          Suyash P. Awate
+            <h4><papertitle> 
+            Citation Network of Finance Journal Articles and Google Scholar Citing Papers
+            </papertitle></h4>
+          <!-- Description  -->
+          We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
           <br>
-          <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2022</em>
           <br>
-          <b> Best Paper Award <i class="fas fa-trophy"></i> </b>
+          Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers. 
           <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9761601">[Paper]</a>
+          <br>
+    <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
     <!-- <a href="">slides</a> -->
           <p></p>
           <!-- <p>Description</p> -->
         </td>
       </tr>
-      <!-- CIKM-20 -->
+      <!-- 2. Bitcoin Blockchain Network (2023/7 - 2023/9)  -->
       <tr>
         <!-- image -->
         <td width="25%">
@@ -51,8 +43,10 @@ Conference Papers
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
-            <h4><papertitle>Selecting Influential Features by a Learnable Content-Aware Linear Threshold Model</papertitle></h4>
-          <!-- authors -->
+            <h4><papertitle> 
+            Analzying the Bitcoin Blockchain Network 
+            </papertitle></h4>
+          <!-- Description -->
           <strong>Ansh Khurana</strong>,
           Alvis Logins,
           Panagiotis Karras 
@@ -100,7 +94,7 @@ Conference Papers
  <tr onmouseout="smerf_stop()" onmouseover="smerf_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
-          <img src='_pages/media/profile1.jpg' width=100%>
+          <img src='images/profile1.jpg' width=100%>
         </div>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
