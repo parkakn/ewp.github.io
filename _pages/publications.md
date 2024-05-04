@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -9,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+Projects
 ------
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
