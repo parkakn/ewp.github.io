@@ -113,19 +113,21 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 </td>
 
 <p align="center">
+  <td style="padding:20px;width:25%;vertical-align:middle">
   <img alt="Dark" src="/images/citation network zoom 1.png" width="48%"> 
+  </td>
     &nbsp; &nbsp; &nbsp; &nbsp;
-**Analyzing the Bitcoin Blockchain Network** <em> (2023) </em> 
+  <td style="padding:20px;width:75%;vertical-align:middle">
+  **Analyzing the Bitcoin Blockchain Network** <em> (2023) </em> 
 
-We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
-<br>
-<br>
-Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers.
-<br> 
-<br>
-<a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
-<br> 
-<br>
+    We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
+    <br>
+    <br>
+    Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers.
+  <br> 
+  <br>
+  <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+    </td>
 </p>
 
  <tr onmouseout="recon_stop()" onmouseover="recon_stopt()" bgcolor="#ffffd0">
@@ -163,3 +165,29 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
       </td>
     </tr>
 
+  <tr>
+    <!-- image -->
+    <td width="25%">
+      <img width="90%" src="/images/citation network zoom 1.png" alt="obj">
+    </td>
+    <!-- content -->
+    <td valign="middle" width="75%">
+        <h4><papertitle> 
+        Citation Network of Finance Journal Articles and Google Scholar Citing Papers
+        </papertitle></h4>
+      <!-- Description  -->
+      We built a paper-to-paper citation network of journal articles published on the Journal of Financial Economics (JFE) and their citing papers on Google Scholars. 
+      <br>
+      <br>
+      Our dataset covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004 and 184,568 citing papers from Google Scholars. Our data contains 410,772 directed edges and also features node attributes, such as paper authors, publication date, and source of publication for citing papers.  
+      <br>
+      <br>
+      We also identify finance faculty members in known institutes/universities among the paper authors based on external sources, such as American Finance Association and European Finance Association, and include these information in a our dataset. 
+      <br>
+      <br>
+    <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+    <!-- <a href="">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
