@@ -5,8 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Citation Network of Finance Journal Articles and Google Scholar Citing Papers <em> (2024) </em> 
-<a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+<span style="font-size: 1.25em; font-weight: bold;">Citation Network of Finance Journal Articles and Google Scholar Citing Papers</span> <em>(2024)</em> <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 <br> 
 We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
 <br>
@@ -16,8 +15,6 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <td width="25%" style="text-align: center;">
   <img width="90%" src="/images/citation network zoom 1.png" alt="obj">
 </td>
-
-<span style="font-size: 1.5em; font-weight: bold;">Citation Network of Finance Journal Articles and Google Scholar Citing Papers</span> <em>(2024)</em>
 
 **Analyzing the Bitcoin Blockchain Network** <em> (2023) </em> 
 
