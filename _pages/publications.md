@@ -18,7 +18,7 @@ We built a paper-to-paper citation network of journal articles published in the 
 <br>
 We built a paper-to-paper citation network of journal articles published in the Journal of Financial Economics (JFE) and their citing papers on Google Scholars through a web scrapping program. Our dataset covers 2,373 JFE papers published from January 2005 to February 2004 and 184,568 citing papers from Google Scholars. It contains 410,772 directed edges and node attributes, such as paper authors, publication dates, and sources of publication for citing papers. We further provide information on authors by identifying the university/institute of association and its location. 
 <td width="25%" style="text-align: center;">
-  <img width="80%" src="images/Antpool_dist_graph-1.png" alt="obj">
+  <img width="80%" src="/images/Antpool_dist_graph-1.png" alt="obj">
 </td>
 
 **Analyzing the Bitcoin Blockchain Network** <em> (2023) </em> 
