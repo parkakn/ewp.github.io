@@ -155,3 +155,11 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
         </p>
       </td>
     </tr>
+
+    <div class="container">
+  <img src="/images/citation network zoom 1.png" alt="Descriptive Alt Text" style="width:200px;">
+  <p>
+    Here is the paragraph of text that appears next to the image. You can replace this
+    text with any content you want and adjust the image path and size as necessary.
+  </p>
+</div>
