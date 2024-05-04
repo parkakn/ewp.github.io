@@ -4,56 +4,48 @@ permalink: /projects/
 author_profile: true
 ---
 
-<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
-
-{% include base_path %}
-
-Projects
+Conference Papers
 ------
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
   <div class="resume-content">
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody>
-      <!-- 1. Citation Network (2023/10 - 2024/2) -->
+      <!-- ISBI-22 -->
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/citation network zoom 1.png" alt="obj">
+          <img width="90%" src="/images/isbi2022.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
-            <h4><papertitle> 
-            Citation Network of Finance Journal Articles and Google Scholar Citing Papers
-            </papertitle></h4>
-          <!-- Description  -->
-          We built a paper-to-paper citation network of journal articles published on the Journal of Financial Economics (JFE) and their citing papers on Google Scholars. 
+            <h4><papertitle>Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT</papertitle></h4>
+          <!-- authors -->
+          Vatsala Sharma,
+          <strong>Ansh Khurana</strong>,
+          Sriram Yenamandra,
+          Suyash P. Awate
           <br>
+          <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2022</em>
           <br>
-          Our dataset covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004 and 184,568 citing papers from Google Scholars. Our data contains 410,772 directed edges and also features node attributes, such as paper authors, publication date, and source of publication for citing papers.  
+          <b> Best Paper Award <i class="fas fa-trophy"></i> </b>
           <br>
-          <br>
-          We also identify finance faculty members in known institutes/universities among the paper authors based on external sources, such as American Finance Association and European Finance Association, and include these information in a our dataset. 
-          <br>
-          <br>
-    <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9761601">[Paper]</a>
     <!-- <a href="">slides</a> -->
           <p></p>
           <!-- <p>Description</p> -->
         </td>
       </tr>
-      <!-- 2. Bitcoin Blockchain Network (2023/7 - 2023/9)  -->
+      <!-- CIKM-20 -->
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/profile2.png" alt="obj">
+          <img width="90%" src="/images/cikm2020.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
-            <h4><papertitle> 
-            Analzying the Bitcoin Blockchain Network 
-            </papertitle></h4>
-          <!-- Description -->
+            <h4><papertitle>Selecting Influential Features by a Learnable Content-Aware Linear Threshold Model</papertitle></h4>
+          <!-- authors -->
           <strong>Ansh Khurana</strong>,
           Alvis Logins,
           Panagiotis Karras 
@@ -70,7 +62,7 @@ Projects
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/profile2.jpg" alt="obj">
+          <img width="90%" src="/images/bmvc.jpg" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
@@ -87,6 +79,56 @@ Projects
           <br>
     <a href="https://www.bmvc2020-conference.com/assets/papers/0702.pdf">[Paper]</a>
     <!-- <a href="slides.pdf">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
+      <!-- ICPR-20 -->
+      <tr>
+        <!-- image -->
+        <td width="25%">
+          <img width="90%" src="/images/icpr2020.png" alt="obj">
+        </td>
+        <!-- content -->
+        <td valign="middle" width="75%">
+            <h4><papertitle>Learning Image Inpainting from Incomplete Images using Self-Supervision</papertitle></h4>
+          <!-- </a> -->
+          <!-- <br> -->
+          <!-- authors -->
+          Sriram Yenamandra,
+          <strong>Ansh Khurana</strong>,
+          Rohit Jena,
+          Suyash P. Awate
+          <br>
+          <em>International Conference on Pattern Recognition (ICPR) 2020</em>
+          <br>
+    <a href="https://ieeexplore.ieee.org/document/9413049">[Paper]</a>
+    <!-- <a href="slides.pdf">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
+      <!-- GCPR-20 -->
+      <tr>
+        <!-- image -->
+        <td width="25%">
+          <img width="90%" src="/images/gcpr2020.png" alt="obj">
+        </td>
+        <!-- content -->
+        <td valign="middle" width="75%">
+            <h4><papertitle>Multi-Stage Fusion for One-Click Segmentation</papertitle></h4>
+          <!-- </a> -->
+          <!-- <br> -->
+          <!-- authors -->
+          Soumajit Majumder,
+          <strong>Ansh Khurana</strong>,
+          Abhinav Rai,
+          Angela Yao
+          <br>
+          <em>German Conference on Pattern Recognition  (GCPR) 2020</em>
+          <br>
+    <a href="https://arxiv.org/abs/2010.09672">[Paper]</a>
+    <!-- <a href="data">slides</a> -->
           <p></p>
           <!-- <p>Description</p> -->
         </td>
