@@ -120,6 +120,38 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 <br> 
 <br>
-<td width="25%">
-<img width="90%" src="/images/profile1.jpg" alt="obj">
-</td>
+
+ <tr onmouseout="recon_stop()" onmouseover="recon_stopt()" bgcolor="#ffffd0">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <img src='/images/citation network zoom 1.png' width="160">
+        </div>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://reconfusion.github.io/">
+			<span class="papertitle">ReconFusion: 3D Reconstruction with Diffusion Priors</span>
+        </a>
+        <br>
+        <a href="https://www.cs.columbia.edu/~rundi/">Rundi Wu*</a>,
+		<a href="https://bmild.github.io/">Ben Mildenhall*</a>,
+        <a href="https://henzler.github.io/">Philipp Henzler</a>,
+        <a href="https://keunhong.com/">Keunhong Park</a>,
+        <a href="https://ruiqigao.github.io/">Ruiqi Gao</a>,
+        <a href="https://scholar.google.com/citations?user=_pKKv2QAAAAJ&hl=en/">Daniel Watson</a>,
+        <a href="https://pratulsrinivasan.github.io/">Pratul P. Srinivasan</a>,
+        <a href="https://dorverbin.github.io/">Dor Verbin</a>,
+		<strong>Jonathan T. Barron</strong>,
+        <a href="https://poolio.github.io/">Ben Poole</a>,
+        <a href="https://holynski.org/">Aleksander Holynski*</a>
+        <br>
+        <em>CVPR</em>, 2024
+        <br>
+        <a href="https://reconfusion.github.io/">project page</a>
+        /
+        <a href="https://arxiv.org/abs/">arXiv</a>
+        <p></p>
+        <p>
+        Using a multi-image diffusion model as a regularizer lets you recover high-quality radiance fields from just a handful of images.
+        </p>
+      </td>
+    </tr>
