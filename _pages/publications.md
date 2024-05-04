@@ -108,7 +108,13 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <br>
 <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 <br> 
+<td width="25%">
+  <img width="90%" src="/images/citation network zoom 1.png" alt="obj">
+</td>
 
+<p align="center">
+  <img alt="Dark" src="/images/citation network zoom 1.png" width="48%"> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
 **Analyzing the Bitcoin Blockchain Network** <em> (2023) </em> 
 
 We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
@@ -120,6 +126,7 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 <br> 
 <br>
+</p>
 
  <tr onmouseout="recon_stop()" onmouseover="recon_stopt()" bgcolor="#ffffd0">
       <td style="padding:20px;width:25%;vertical-align:middle">
@@ -156,10 +163,3 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
       </td>
     </tr>
 
-    <div class="container">
-  <img src="/images/citation network zoom 1.png" alt="Descriptive Alt Text" style="width:200px;">
-  <p>
-    Here is the paragraph of text that appears next to the image. You can replace this
-    text with any content you want and adjust the image path and size as necessary.
-  </p>
-</div>
