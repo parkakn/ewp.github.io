@@ -1,8 +1,13 @@
 ---
 layout: single
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
+
+{% include base_path %}
 
 Conference Papers
 ------
@@ -15,22 +20,16 @@ Conference Papers
       <tr>
         <!-- image -->
         <td width="25%">
-          <img width="90%" src="/images/isbi2022.png" alt="obj">
+          <img width="90%" src="/images/citation network zoom 1.png" alt="obj">
         </td>
         <!-- content -->
         <td valign="middle" width="75%">
-            <h4><papertitle>Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT</papertitle></h4>
+            <h4><papertitle>Citation Network of Finance Journal Articles and Google Scholar Citing Paper</papertitle></h4>
           <!-- authors -->
-          Vatsala Sharma,
-          <strong>Ansh Khurana</strong>,
-          Sriram Yenamandra,
-          Suyash P. Awate
+          We built a paper-to-paper citation network of journal articles published in the Journal of Financial Economics (JFE) and their citing papers on Google Scholars. Our dataset covers 2,373 JFE papers published from January 2005 to February 2004 and 184,568 citing papers from Google Scholars. It contains 410,772 directed edges and features node attributes like paper authors, publication dates, and sources of publication for citing papers.
+          </b>
           <br>
-          <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2022</em>
-          <br>
-          <b> Best Paper Award <i class="fas fa-trophy"></i> </b>
-          <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9761601">[Paper]</a>
+    <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
     <!-- <a href="">slides</a> -->
           <p></p>
           <!-- <p>Description</p> -->
