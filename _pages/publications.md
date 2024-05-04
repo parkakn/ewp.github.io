@@ -23,3 +23,4 @@ Our data covers 2,373 JFE papers published during the period from Janurary 2005 
 <br>
 <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 </td>
+as
