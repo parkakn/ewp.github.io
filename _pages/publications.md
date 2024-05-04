@@ -1,10 +1,15 @@
 ---
+layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-<img src='/images/citation network zoom 1.png' width="700" height="400">
 
+<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
+
+{% include base_path %}
+
+------
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
   <div class="resume-content">
@@ -22,10 +27,13 @@ author_profile: true
             Citation Network of Finance Journal Articles and Google Scholar Citing Papers
             </papertitle></h4>
           <!-- Description  -->
-          We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
+          We built a paper-to-paper citation network of journal articles published on the Journal of Financial Economics (JFE) and their citing papers on Google Scholars. 
           <br>
           <br>
-          Our data covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004, and 410,772 citing papers. We also collected node feature information consisting of the authors, publication date, and source of publication for the citing papers. 
+          Our dataset covers 2,373 JFE papers published during the period from Janurary 2005 to Feburary 2004 and 184,568 citing papers from Google Scholars. Our data contains 410,772 directed edges and also features node attributes, such as paper authors, publication date, and source of publication for citing papers.  
+          <br>
+          <br>
+          We also identify finance faculty members in known institutes/universities among the paper authors based on external sources, such as American Finance Association and European Finance Association, and include these information in a our dataset. 
           <br>
           <br>
     <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
