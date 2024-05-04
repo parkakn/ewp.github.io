@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Citation Network of Finance Journal Articles and Google Scholar Citing Papers** <em> (2024) </em> 
+<h4>Citation Network of Finance Journal Articles and Google Scholar Citing Papers</h4> <em> (2024) </em> 
 <a href="https://github.com/parkakn/Citation-Network-Finance-Journals">[Github]</a>
 <br> 
 We built a citation network of papers published on the Journal of Financial Economics (JFE) and citing papers listed on Google Scholars. The nodes represent papers and edges represent citations. 
