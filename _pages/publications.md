@@ -23,12 +23,14 @@ High concentration of mining pool capacity poses a risk to Bitcoin, such as the 
   <img width="100%" src="/images/Antpool_dist_graph-1.png" alt="obj">
 </td>
 
-<span style="font-size: 1.4em; font-weight: bold;">Seasonality-based Robo-Advisor Tailored to Investor Risk Preferences</span> <em>(2024)</em> 
+<span style="font-size: 1.4em; font-weight: bold;">Robo-Advisor for Individual Retirement Pension (IRP) Funds</span> <em>(2024)</em> 
 <a href="https://github.com/kangokseo/cqralgo?tab=readme-ov-file">[Github]</a>
 <br>
-Robo-advisor is gaining more and more popularity in South Korea<sup>[1](https://www.etnews.com/20240423000204)</sup>. We built a robo-adviosr tailored to investor risk preferences. Our algorithm is based on market cycles and seasonality, and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor algorithm is to provide the optimal portfolio suitable for investor's propensity while achieving returns exceeding that of the S&P500 index.
+In 2023, the Financial Services Commission of South Korea annoucned the implementation of providing robo-advisory services for retirement pension funds. Robo-advisors that are approved from the [Robo Advisor Test Bed Center](https://www.ratestbed.kr:7443/portal/main/main.do) earn the rights to provide services for Individual Retirement Pension (IRP) accounts beginning in the summer of 2024.<sup>[1](https://www.digitaltoday.co.kr/news/articleView.html?idxno=513226)</sup> 
+
+We built a prototype of our robo-adviosr and are in the development stages. Our algorithm is based on market cycles and seasonality and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor is to provide the optimal portfolio suitable based on investor risk preferences while beating the returns of the S&P500 index as our benchmark.
 <td width="25%" style="text-align: center;">
-  <img width="70%" src="/images/backtest.png" alt="obj">
+  <img width="60%" src="/images/backtest.png" alt="obj">
 </td>
 
 
