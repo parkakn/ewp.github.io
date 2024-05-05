@@ -12,6 +12,7 @@ We built a paper-to-paper citation network of journal articles published in the 
 <td width="25%" style="text-align: center;">
   <img width="80%" src="/images/citation network zoom 1.png" alt="obj">
 </td>
+------
 
 <span style="font-size: 1.4em; font-weight: bold;">Analysis of Miners in the Bitcoin Blockchain Network</span> <em>(2023)</em> 
 <a href="https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=7981">[Referenced Paper]</a>
@@ -22,6 +23,7 @@ High concentration of mining pool capacity poses a risk to Bitcoin, such as the 
 <td width="25%" style="text-align: center;">
   <img width="100%" src="/images/Antpool_dist_graph-1.png" alt="obj">
 </td>
+------
 
 <span style="font-size: 1.4em; font-weight: bold;">Robo-Advisor for Individual Retirement Pension (IRP) Funds</span> <em>(2024)</em> 
 <a href="https://github.com/kangokseo/cqralgo?tab=readme-ov-file">[Github]</a>
@@ -32,6 +34,7 @@ We built a prototype of our robo-advisor and are currently in the development st
 <td width="25%" style="text-align: center;">
   <img width="70%" src="/images/backtest.png" alt="obj">
 </td>
+------
 
 <span style="font-size: 1.4em; font-weight: bold;">Principal Component Analysis and Hidden Markov Model for Forecasting Stock Returns</span> <em>(2023)</em> 
 <a href="https://arxiv.org/abs/2307.00459">[Paper]</a>
@@ -40,7 +43,7 @@ This paper presents a method for predicting stock returns using principal compon
 <td width="25%" style="text-align: center;">
   <img width="70%" src="/images/hmm.png" alt="obj">
 </td>
-
+------
 
 
 
