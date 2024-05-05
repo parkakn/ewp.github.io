@@ -20,7 +20,15 @@ As the probability of mining a block and obtaining a reward in the Bitcoin block
 
 High concentration of mining pool capacity poses a risk to Bitcoin, such as the danger of a 51% attack. However, information individual miners are not commonly available, unlike that of minings pools. Thus, we track the distribution of mining rewards from some of the largest mining pools to the miners to identify individual miners and understand the concentration of the Bitcoin mining capactiy. 
 <td width="25%" style="text-align: center;">
-  <img width="90%" src="/images/Antpool_dist_graph-1.png" alt="obj">
+  <img width="100%" src="/images/Antpool_dist_graph-1.png" alt="obj">
+</td>
+
+<span style="font-size: 1.4em; font-weight: bold;">Seasonality-based Robo-Advisor Tailored to Investor Risk Preferences</span> <em>(2024)</em> 
+<a href="https://github.com/kangokseo/cqralgo?tab=readme-ov-file">[Github]</a>
+<br>
+Robo-advisor is gaining more and more popularity in South Korea[$^1$](https://github.com/parkakn/Citation-Network-Finance-Journals). We built a robo-adviosr tailored to investor risk preferences. Our algorithm is based on market cycles and seasonality, and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor algorithm is to provide the optimal portfolio suitable for investor's propensity while achieving returns exceeding that of the S&P500 index.
+<td width="25%" style="text-align: center;">
+  <img width="80%" src="/images/backtest.png" alt="obj">
 </td>
 
 
