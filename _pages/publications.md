@@ -26,7 +26,7 @@ High concentration of mining pool capacity poses a risk to Bitcoin, such as the 
 <span style="font-size: 1.4em; font-weight: bold;">Seasonality-based Robo-Advisor Tailored to Investor Risk Preferences</span> <em>(2024)</em> 
 <a href="https://github.com/kangokseo/cqralgo?tab=readme-ov-file">[Github]</a>
 <br>
-Robo-advisor is gaining more and more popularity in South Korea<sup>[1](https://github.com/parkakn/Citation-Network-Finance-Journals)</sup>. We built a robo-adviosr tailored to investor risk preferences. Our algorithm is based on market cycles and seasonality, and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor algorithm is to provide the optimal portfolio suitable for investor's propensity while achieving returns exceeding that of the S&P500 index.
+Robo-advisor is gaining more and more popularity in South Korea<sup>[1](https://www.etnews.com/20240423000204)</sup>. We built a robo-adviosr tailored to investor risk preferences. Our algorithm is based on market cycles and seasonality, and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor algorithm is to provide the optimal portfolio suitable for investor's propensity while achieving returns exceeding that of the S&P500 index.
 <td width="25%" style="text-align: center;">
   <img width="70%" src="/images/backtest.png" alt="obj">
 </td>
