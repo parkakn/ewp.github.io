@@ -28,7 +28,7 @@ High concentration of mining pool capacity poses a risk to Bitcoin, such as the 
 <br>
 Robo-advisor is gaining more and more popularity in South Korea[$^1$](https://github.com/parkakn/Citation-Network-Finance-Journals). We built a robo-adviosr tailored to investor risk preferences. Our algorithm is based on market cycles and seasonality, and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor algorithm is to provide the optimal portfolio suitable for investor's propensity while achieving returns exceeding that of the S&P500 index.
 <td width="25%" style="text-align: center;">
-  <img width="80%" src="/images/backtest.png" alt="obj">
+  <img width="70%" src="/images/backtest.png" alt="obj">
 </td>
 
 
