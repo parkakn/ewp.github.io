@@ -19,5 +19,5 @@ Outside of work, I enjoy playing soccer! I played for Citybros FC while in New Y
 - Applied machine learning
 - Networks
 - Applied probability 
-- Mathematics in finance 
+- Mathematical finance 
 - Macroeconomics and financial markets 
