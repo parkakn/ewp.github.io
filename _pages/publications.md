@@ -21,7 +21,7 @@ As the probability of mining a block and obtaining a reward in the Bitcoin block
 
 High concentration of mining pool capacity poses a risk to Bitcoin, such as the danger of a 51% attack. However, information individual miners are not commonly available, unlike that of minings pools. Thus, we track the distribution of mining rewards from some of the largest mining pools to the miners to identify individual miners and understand the concentration of the Bitcoin mining capactiy. 
 <td width="25%" style="text-align: center;">
-  <img width="100%" src="/images/Antpool_dist_graph-1.png" alt="obj">
+  <img width="70%" src="/images/Antpool_dist_graph-1.png" alt="obj">
 </td>
 ------
 
@@ -32,7 +32,7 @@ In 2023, the Financial Services Commission of South Korea annoucned the implemen
 
 We built a prototype of our robo-advisor and are currently in the development stages. Our algorithm is based on market cycles and seasonality and invests in stock market indices of the United States and South Korea. The goal of our robo-advisor is to provide the optimal portfolio suitable based on investor risk preferences while beating the returns of the S&P500 index as our benchmark.
 <td width="25%" style="text-align: center;">
-  <img width="60%" src="/images/backtest.png" alt="obj">
+  <img width="65%" src="/images/backtest.png" alt="obj">
 </td>
 ------
 
@@ -41,7 +41,7 @@ We built a prototype of our robo-advisor and are currently in the development st
 <br>
 This paper presents a method for predicting stock returns using principal component analysis (PCA) and the hidden Markov model (HMM) and tests the results of trading stocks based on this approach. Principal component analysis is applied to the covariance matrix of stock returns for companies listed in the S&P 500 index, and interpreting principal components as factor returns, we apply the HMM model on them. Then we use the transition probability matrix and state conditional means to forecast the factors returns. Reverting the factor returns forecasts to stock returns using eigenvectors, we obtain forecasts for the stock returns. We find that, with the right hyperparameters, our model yields a strategy that outperforms the buy-and-hold strategy in terms of the annualized Sharpe ratio.
 <td width="25%" style="text-align: center;">
-  <img width="60%" src="/images/hmm.png" alt="obj">
+  <img width="65%" src="/images/hmm.png" alt="obj">
 </td>
 ------
 
