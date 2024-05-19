@@ -10,7 +10,7 @@ author_profile: true
 <br>
 We built a paper-to-paper citation network of journal articles published in the Journal of Financial Economics (JFE) and their citing papers on Google Scholars through a web scrapping program. Our dataset covers 2,373 JFE papers published from January 2005 to February 2004 and 184,568 citing papers from Google Scholars. It contains 410,772 directed edges and node attributes, such as paper authors, publication dates, and sources of publication for citing papers. We further provide information on authors by identifying the university/institute of association and its location. 
 <td width="25%" style="text-align: center;">
-  <img width="80%" src="/images/citation network zoom 1.png" alt="obj">
+  <img width="70%" src="/images/citation network zoom 1.png" alt="obj">
 </td>
 ------
 
@@ -45,13 +45,13 @@ This paper presents a method for predicting stock returns using principal compon
 </td>
 ------
 
-<span style="font-size: 1.4em; font-weight: bold;">Analyzing Entity Portrayals in Narrative Text: PCA vs UMAP for Affect Space Projection  </span> <em>(2023)</em> 
+<span style="font-size: 1.4em; font-weight: bold;">Analyzing Entity Portrayals in Narrative Text: PCA vs UMAP for Affect Space Projection  </span> <em>(2022)</em> 
 <br>
 
 To analyze the portrayals of people in narrative text, pre-trained contextualized word embeddings have been used to extract affect information about target entities. Words have three key affective dimensions: valence representing sentiment, arousal representing agency, and dominance representing power. We use the Affect Subspace Projection (ASP) model leverages dimension reduction techniques to find a one-dimensional representation for each affect dimension and to  predict the affect scores of each entity by mapping its embeddging onto each of dimension. Specifically, we test ASP with two different dimension reduction techniques - Principal Component Analysis (PCA) and Uniform Manifold Approximation and PRojection (UMAP). 
 <td width="25%" style="text-align: center;">
-  <img width="30%" src="/images/word affect scores.jpeg" alt="obj">
-  <img width="30%" src="/images/results_ASP.png" alt="obj">
+  <img width="33%" src="/images/word affect scores.jpeg" alt="obj">
+  <img width="33%" src="/images/results_ASP.png" alt="obj">
 </td>
 ------
 
