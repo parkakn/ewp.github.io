@@ -21,7 +21,7 @@ As the probability of mining a block and obtaining a reward in the Bitcoin block
 
 High concentration of mining pool capacity poses a risk to Bitcoin, such as the danger of a 51% attack. However, information individual miners are not commonly available, unlike that of minings pools. Thus, we track the distribution of mining rewards from some of the largest mining pools to the miners to identify individual miners and understand the concentration of the Bitcoin mining capactiy. 
 <td width="25%" style="text-align: center;">
-  <img width="70%" src="/images/Antpool_dist_graph-1.png" alt="obj">
+  <img width="100%" src="/images/Antpool_dist_graph-1.png" alt="obj">
 </td>
 ------
 
@@ -50,8 +50,8 @@ This paper presents a method for predicting stock returns using principal compon
 
 To analyze the portrayals of people in narrative text, pre-trained contextualized word embeddings have been used to extract affect information about target entities. Words have three key affective dimensions: valence representing sentiment, arousal representing agency, and dominance representing power. We use the Affect Subspace Projection (ASP) model leverages dimension reduction techniques to find a one-dimensional representation for each affect dimension and to  predict the affect scores of each entity by mapping its embeddging onto each of dimension. Specifically, we test ASP with two different dimension reduction techniques - Principal Component Analysis (PCA) and Uniform Manifold Approximation and PRojection (UMAP). 
 <td width="25%" style="text-align: center;">
-  <img width="33%" src="/images/word affect scores.jpeg" alt="obj">
-  <img width="33%" src="/images/results_ASP.png" alt="obj">
+  <img width="30%" src="/images/word affect scores.jpeg" alt="obj">
+  <img width="30%" src="/images/results_ASP.png" alt="obj">
 </td>
 ------
 
