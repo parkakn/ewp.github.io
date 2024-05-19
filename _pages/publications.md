@@ -51,8 +51,7 @@ This paper presents a method for predicting stock returns using principal compon
 To analyze the portrayals of people in narrative text, pre-trained contextualized word embeddings have been used to extract affect information about target entities. Words have three key affective dimensions: valence representing sentiment, arousal representing agency, and dominance representing power. We use the Affect Subspace Projection (ASP) model leverages dimension reduction techniques to find a one-dimensional representation for each affect dimension and to  predict the affect scores of each entity by mapping its embeddging onto each of dimension. Specifically, we test ASP with two different dimension reduction techniques - Principal Component Analysis (PCA) and Uniform Manifold Approximation and PRojection (UMAP). 
 <td width="25%" style="text-align: center;">
   <img width="30%" src="/images/word affect scores.jpeg" alt="obj">
-  <img width="30%" src="/images/PCA_ASP.png" alt="obj">
-  <img width="30%" src="/images/UMAP_ASP.png" alt="obj">
+  <img width="30%" src="/images/results_ASP.png" alt="obj">
 </td>
 ------
 
