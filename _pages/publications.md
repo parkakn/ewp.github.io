@@ -45,7 +45,7 @@ This paper presents a method for predicting stock returns using principal compon
 </div>
 ------
 
-<span style="font-size: 1.4em; font-weight: bold;">Analyzing Entity Portrayals in Narrative Text: PCA vs UMAP for Affect Space Projection  </span> <em>(2022)</em> 
+<span style="font-size: 1.4em; font-weight: bold;">Analyzing Entity Portrayals in Narrative Text: PCA vs UMAP for Affect Subspace Projection  </span> <em>(2022)</em> 
 <br>
 
 To analyze the portrayals of people in narrative text, pre-trained contextualized word embeddings have been used to extract affect information about target entities. Words have three key affective dimensions: valence representing sentiment, arousal representing agency, and dominance representing power. We use the Affect Subspace Projection (ASP) model to find a one-dimensional representation for each affect dimension and to predict affect scores of each entity by mapping its embedding onto each of dimensions. Specifically, we test ASP with two different dimension reduction techniques - Principal Component Analysis (PCA) and Uniform Manifold Approximation and Projection (UMAP). 
